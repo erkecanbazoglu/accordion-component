@@ -13,6 +13,8 @@ body {
   font-family: sans-serif;
 }
 
+/* Default part */
+
 .container {
   height: 100vh;
   background-color: #eee;
